@@ -1,0 +1,3 @@
+/home/son/VS-workspace/WoR-Robots-Matrix-Student/CMakeFiles/MyExecutable.dir
+/home/son/VS-workspace/WoR-Robots-Matrix-Student/CMakeFiles/edit_cache.dir
+/home/son/VS-workspace/WoR-Robots-Matrix-Student/CMakeFiles/rebuild_cache.dir
