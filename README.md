@@ -44,14 +44,16 @@ The Matrix library is designed to be intuitive for users familiar with basic C++
 ```cpp
 Matrix<int, 2, 3> mat1(0); // A 2x3 matrix of ints, initialized to 0.
 Matrix<double, 3, 3> mat2{{1.0, 0.0, 0.0}, {0.0, 1.0, 0.0}, {0.0, 0.0, 1.0}}; // 3x3 identity matrix.
+```
 
 ### Perfoming Operations
 ```cpp
 auto mat3 = mat1 + mat2; // Assuming mat1 and mat2 are of compatible dimensions.
 mat1 *= 2; // Multiply all elements of mat1 by 2.
-
+```
 
 ### Advanced Features
 ```cpp
 auto transposed = mat2.transpose();
 auto inverse = mat2.inverse();
+```
